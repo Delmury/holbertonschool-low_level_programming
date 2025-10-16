@@ -1,0 +1,3 @@
+#!/bin/bash
+# Generates the assembly of $CFILE into a .s file (no linking)
+gcc -S "$CFILE" -o "${CFILE%.c}.s"
