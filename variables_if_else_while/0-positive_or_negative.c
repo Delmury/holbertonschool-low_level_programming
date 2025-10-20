@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Assigns a random number to n and prints if it is positive, zero, or negative
+ * main - Prints whether the number stored in n is positive, zero, or negative
  *
  * Return: Always 0 (Success)
  */
